@@ -1,3 +1,3 @@
 # gitskills
 test
-Now is New Feature34.
+Creating a new branch is quick and simple.
